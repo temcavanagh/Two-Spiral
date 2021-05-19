@@ -3,6 +3,8 @@ A comparison of ANN and SVM model performance on the two-spiral and modified two
 
 # Original Two-Spiral Dataset
 
+![image](Images/Two-Spiral-Original.png)
+
 ## Artificial Neural Network
 
 A feed-forward ANN using PyTorch with layer dimensions: 2-16-32-1; Learning rate: 0.1
